@@ -142,6 +142,45 @@ Octave: D,    fret x
 
 This is just the tuning relationship (except G->B is +4).
 
+#### TAB: octave shapes you can play and move
+
+These are short “two-note hits” so your hands learn the octave shapes fast.
+
+**1) Same string (+12 frets)** (example: A on low E, then A an octave up)
+
+```
+e|----------------
+B|----------------
+G|----------------
+D|----------------
+A|----------------
+E|--5--------17---
+```
+
+**2) Two strings down, +2 frets** (example: A on low E → A on D)
+
+```
+e|----------------
+B|----------------
+G|----------------
+D|-------7--------
+A|----------------
+E|--5-------------
+```
+
+**3) Two strings down, +3 frets across the B-string** (example: A on D → A on B)
+
+```
+e|----------------
+B|--------10------
+G|----------------
+D|--7-------------
+A|----------------
+E|----------------
+```
+
+Practice tip: pick a random root on string 6 or 5, play the octave, then slide the whole shape up/down the neck.
+
 #### Anchor notes that pay off immediately
 
 You can build speed by memorizing just a few “home base” notes:
@@ -297,6 +336,95 @@ Root -> +4 frets = 3
 
 Try it with any root you like. That “one-fret difference” is the major/minor switch.
 
+#### TAB: major/minor 3rds as a movable 2-note shape
+
+On guitar, you can also *see* (and hear) major/minor 3rds as a movable 2-note shape (a dyad).
+
+**If your root is on the 6th string (low E):**
+
+- Major 3rd = one string down, **one fret back**
+- Minor 3rd = one string down, **two frets back**
+
+Example with root A (5th fret low E):
+
+Major 3rd (A + C#):
+
+```
+e|----------------
+B|----------------
+G|----------------
+D|----------------
+A|--4-------------
+E|--5-------------
+```
+
+Minor 3rd (A + C):
+
+```
+e|----------------
+B|----------------
+G|----------------
+D|----------------
+A|--3-------------
+E|--5-------------
+```
+
+**If your root is on the 5th string (A string):** it’s the same idea (down one string, back 1 = major 3rd, back 2 = minor 3rd).
+
+Example with root A (open A string, shown here at 12th fret to keep it visible):
+
+Major 3rd (A + C#):
+
+```
+e|----------------
+B|----------------
+G|----------------
+D|--11------------
+A|--12------------
+E|----------------
+```
+
+Minor 3rd (A + C):
+
+```
+e|----------------
+B|----------------
+G|----------------
+D|--10------------
+A|--12------------
+E|----------------
+```
+
+**Crossing the B string changes the shape.**  
+If your root is on the G string, the B string is tuned differently (only 4 frets up), so:
+
+- Major 3rd = **same fret** on the B string
+- Minor 3rd = **one fret back** on the B string
+
+Example with root G (12th fret G string):
+
+Major 3rd (G + B):
+
+```
+e|----------------
+B|--12------------
+G|--12------------
+D|----------------
+A|----------------
+E|----------------
+```
+
+Minor 3rd (G + Bb):
+
+```
+e|----------------
+B|--11------------
+G|--12------------
+D|----------------
+A|----------------
+E|----------------
+```
+
 #### The B string adjustment (again)
 
 Any time an interval shape crosses from G to B, it shifts one fret.
@@ -435,6 +563,21 @@ E|----------------------------
 
 Say the degrees as you play: 1–2–3–4–5–6–7–8.
 
+#### TAB: a practical 2-octave major scale shape (movable)
+
+Here’s a clean, guitar-friendly **2-octave major scale** you can move anywhere. This example is **G major** starting on the 3rd fret low E.
+
+```
+e|-----------------2--3--
+B|-----------0--3--------
+G|------0--2-------------
+D|0--2-------------------
+A|-----------------------
+E|3--5-------------------
+```
+
+Move the whole thing up/down to change key (keep the same spacing).
+
 #### Across the fretboard: think “connected positions”
 
 You already know the neck is a grid with repeats and octaves. The major scale is just “which frets in the grid are allowed” for the key.
@@ -543,6 +686,30 @@ Minor:  1  2  b3  4  5  b6  b7
 ```
 
 That’s why it feels darker: b3, b6, b7 are “darker” colors compared to 3, 6, 7.
+
+#### TAB: A natural minor (2 octaves) + compare to A major
+
+Here’s a practical **A natural minor** run (2 octaves) starting on the 5th fret low E.
+
+```
+e|----------------5-7-8-
+B|------------5-6-------
+G|--------4-5-----------
+D|----5-7---------------
+A|-5-7------------------
+E|-5-7-8----------------
+```
+
+Now compare the “bright” version: **A major** (notice the one-fret changes on 3, 6, 7).
+
+```
+e|----------------5-7-9-
+B|------------5-7-------
+G|--------4-6-----------
+D|----4-6-7-------------
+A|-4-5-7----------------
+E|-5-7-9----------------
+```
 
 #### Relative major/minor: same notes, different home
 
@@ -723,6 +890,42 @@ Here are the most useful “add-ons” to minor pentatonic:
   Degrees: \(1, 2, b3, 4, 5, 6, b7\) (context matters)
 - **Major/minor blur (rock/blues)**: over a major chord, mix in **major 3** as a passing tone and resolve it.
 
+#### TAB: pentatonic boxes you can actually use
+
+**A minor pentatonic (classic Box 1)**
+
+```
+e|----------------5--8-
+B|------------5--8-----
+G|--------5--7---------
+D|----5--7-------------
+A|5--7-----------------
+E|5--8-----------------
+```
+
+**Add the blues note (b5)** (hit it and resolve it)
+
+```
+e|-----------------------------
+B|-----------------------------
+G|---------5--6--7-------------
+D|----5--7-----------7--5------
+A|------------------------7--5-
+E|-----------------------------
+```
+
+**A major pentatonic (easy starting shape around 5th position)**  
+Tip: it’s the “brighter cousin” — aim for C# (3) and F# (6).
+
+```
+e|----------------4--5--7-
+B|-----------5--7---------
+G|------4--6--------------
+D|--4--6------------------
+A|------------------------
+E|------------------------
+```
+
 ### Play it now
 
 #### Drill 1 — “Pentatonic, but musical” rules (5 minutes)
@@ -891,6 +1094,43 @@ Examples:
 If you only remember one thing about modes, remember this:
 
 > Modal sound is mostly about **targeting the characteristic note against the right chord/vamp**.
+
+#### TAB: tiny modal phrases (so you can hear the “color note”)
+
+These are short examples meant to highlight one note, then resolve.
+
+**D Dorian over `Dm–G` (target B = natural 6, resolve to A/D)**
+
+```
+e|-------------------------
+B|-----------6--8--6-------
+G|------5--7--------7--5---
+D|--7----------------------
+A|-------------------------
+E|-------------------------
+```
+
+**C Lydian over `C–D` (target F# = #4, resolve to G/E/C)**
+
+```
+e|-------------------------
+B|--------5--7--5----------
+G|--4--6--------6--4-------
+D|--------------------5----
+A|-------------------------
+E|-------------------------
+```
+
+**A Mixolydian over `A–G` (target G = b7, resolve to A/C#)**
+
+```
+e|-------------------------
+B|-----------5--7--5-------
+G|------4--6--------6--4---
+D|--7------------------7---
+A|-------------------------
+E|-------------------------
+```
 
 ### Play it now
 
@@ -1095,6 +1335,87 @@ Instead of memorizing “mode boxes,” use these anchors:
 
 If you can reliably hit the characteristic note and resolve, you’re “using the mode,” even if your fingering is simple.
 
+#### TAB: one-bar “fingerprints” for each mode (A as home)
+
+These are tiny phrases meant to **feature the characteristic note**, then resolve. They’re not “official licks”—just quick ears-first examples.
+
+**A Ionian (major)** (feature 7 = G# resolving to A)
+
+```
+e|----------------4-5-
+B|----------5-7-9-----
+G|----4-6-7-----------
+D|--------------------
+A|--------------------
+E|--------------------
+```
+
+**A Dorian** (feature 6 = F#)
+
+```
+e|----------------5-7-
+B|----------5-7-------
+G|----4-6-7-----------
+D|--------------------
+A|--------------------
+E|--------------------
+```
+
+**A Phrygian** (feature b2 = Bb)
+
+```
+e|----------------5-6-5-
+B|----------5-6-8-------
+G|----5-7--------------
+D|----------------------
+A|----------------------
+E|----------------------
+```
+
+**A Lydian** (feature #4 = D#)
+
+```
+e|----------------4-6-5-
+B|----------5-7---------
+G|----4-6-8-------------
+D|----------------------
+A|----------------------
+E|----------------------
+```
+
+**A Mixolydian** (feature b7 = G)
+
+```
+e|----------------5-7-5-
+B|----------5-7---------
+G|----4-6-7-------------
+D|----------------------
+A|----------------------
+E|----------------------
+```
+
+**A Aeolian (natural minor)** (feature b6 = F)
+
+```
+e|----------------5-6-5-
+B|----------5-6-8-------
+G|----5-7--------------
+D|----------------------
+A|----------------------
+E|----------------------
+```
+
+**A Locrian** (feature b5 = Eb, resolve carefully)
+
+```
+e|----------------5-6-5-
+B|----------5-6-8-------
+G|----5-6-7-------------
+D|----------------------
+A|----------------------
+E|----------------------
+```
+
 ### Play it now
 
 #### Drill 1 — One vamp, one target (10 minutes)
@@ -1214,6 +1535,23 @@ Layer C — **Approach notes (movement):**
 Use nearby scale tones to approach chord tones and the characteristic note.
 
 If you do this, your solo sounds like “a melody with color,” not “a scale exercise.”
+
+#### TAB: 3-layer example over `A–G` (Mixolydian vibe)
+
+This tiny example does:
+
+- land on chord tones (A/C#/E),
+- feature the color note G (b7),
+- and resolve back to A.
+
+```
+e|-------------------------
+B|-----------5--7--5-------
+G|------4--6--------6--4---
+D|--7------------------7---
+A|-------------------------
+E|-------------------------
+```
 
 ### Play it now
 
@@ -1336,6 +1674,32 @@ Major:      1  3  5
 Minor:      1  b3 5
 Diminished: 1  b3 b5
 Augmented:  1  3  #5
+```
+
+#### TAB: triads (the “chord identity” in 3 notes)
+
+Here’s a super practical way to *feel* the 3rd (major vs minor) on guitar: play a triad on the top 3 strings.
+
+**C major triad (C–E–G)** (listen to the “bright” 3rd)
+
+```
+e|--3--
+B|--5--
+G|--5--
+D|-----
+A|-----
+E|-----
+```
+
+**C minor triad (C–Eb–G)** (only one note moved: the 3rd)
+
+```
+e|--3--
+B|--4--
+G|--5--
+D|-----
+A|-----
+E|-----
 ```
 
 Notice the pattern:
@@ -1487,6 +1851,43 @@ Maj7: 1  3  5  7
 7:    1  3  5  b7   (dominant 7)
 m7:   1  b3 5  b7
 m7b5: 1  b3 b5 b7   (half-diminished)
+```
+
+#### TAB: practical 7th chord shapes (clean, common, useful)
+
+These are compact voicings you’ll hear all the time. (Try strumming slowly; let the 7th color speak.)
+
+**Cmaj7**
+
+```
+e|--3--
+B|--5--
+G|--4--
+D|--5--
+A|--3--
+E|-----
+```
+
+**C7** (dominant 7)
+
+```
+e|--3--
+B|--5--
+G|--3--
+D|--5--
+A|--3--
+E|-----
+```
+
+**Cm7**
+
+```
+e|--3--
+B|--4--
+G|--3--
+D|--5--
+A|--3--
+E|-----
 ```
 
 Practical hearing:
@@ -1656,6 +2057,20 @@ In G:  G  D  Em C
 In A:  A  E  F#m D
 ```
 
+#### TAB: the same I–V–vi–IV vibe in one playable spot (G major example)
+
+Here’s `| G | D | Em | C |` using common, clean shapes near the nut.
+
+```
+   G         D         Em        C
+e|-3--------2--------0--------0---|
+B|-0--------3--------0--------1---|
+G|-0--------2--------0--------0---|
+D|-0--------0--------2--------2---|
+A|-2-----------------2--------3---|
+E|-3-----------------0------------|
+```
+
 #### Why chords feel stable vs tense
 
 On guitar, you can feel this without overthinking:
@@ -1802,6 +2217,54 @@ They overlap and repeat as you move up the neck. That overlap is the *map*.
 
 Important: you do not need to master the full G-shape barre to benefit from CAGED. Partial grips and triads are often better.
 
+#### TAB: C major in multiple “neighborhoods” (grips you can grab)
+
+Play these one after another and listen: same chord name, different register/feel.
+
+**Open C (C-shape DNA)**
+
+```
+e|--0--
+B|--1--
+G|--0--
+D|--2--
+A|--3--
+E|-----
+```
+
+**C (A-shape barre)**
+
+```
+e|--3--
+B|--5--
+G|--5--
+D|--5--
+A|--3--
+E|-----
+```
+
+**C (E-shape barre)**
+
+```
+e|--8--
+B|--8--
+G|--9--
+D|--10-
+A|--10-
+E|--8--
+```
+
+**C (D-shape / top-strings grip)**
+
+```
+e|--8--
+B|--8--
+G|--9--
+D|--10-
+A|-----
+E|-----
+```
+
 #### The practical CAGED workflow (no hype)
 
 Pick one chord (C major is easy).
@@ -1936,6 +2399,25 @@ Example in C major:
 - G chord: 3rd is B
 
 Notice: those are all notes that already exist in the key. The difference is *timing* and *targeting*.
+
+#### TAB: target the 3rd on each chord change (C–G–Am–F)
+
+This is a simple single-note line that lands on each chord’s 3rd:
+
+- C → **E**
+- G → **B**
+- Am → **C**
+- F → **A**
+
+```
+e|----------------|----------------|----------------|----------------|
+B|--5-------------|--4-------------|--5-------------|--5-------------|
+G|-----5--4--2----|-----4--2--0----|-----5--4--2----|-----5--2-------|
+D|----------------|----------------|----------------|----------------|
+A|----------------|----------------|----------------|----------------|
+E|----------------|----------------|----------------|----------------|
+   C              G                Am               F
+```
 
 #### Visualize chord tones inside your scale area
 
@@ -2110,6 +2592,20 @@ Fix:
 
 That’s enough to make music.
 
+#### TAB: a “not random” 3-note phrase (A–C–E) with space
+
+Use this over `Am` (or any A minor backing). It’s intentionally simple: chord tones + rhythm.
+
+```
+e|---------------------------|
+B|---------------------------|
+G|------5-----5--------------|
+D|--7-----------7--5---------|
+A|-------------------7--5----|
+E|---------------------------|
+   A     C     A   E  (space)
+```
+
 ### Play it now
 
 #### Drill 1 — Two-string solo (10 minutes)
@@ -2228,6 +2724,30 @@ The power move is **repetition with variation**:
 
 - repeat the idea so the listener recognizes it,
 - then change one thing (rhythm, ending note, register, articulation).
+
+#### TAB: motif → variation (same rhythm, different ending)
+
+Motif (ends on A):
+
+```
+e|----------------|
+B|--------5--7-5--|
+G|--4--6----------|
+D|----------------|
+A|----------------|
+E|----------------|
+```
+
+Variation (same start, end on C instead):
+
+```
+e|----------------|
+B|--------5--6-5--|
+G|--4--6----------|
+D|----------------|
+A|----------------|
+E|----------------|
+```
 
 #### Tool 2: Call and response
 
@@ -2383,6 +2903,20 @@ Start with:
 - “Is there a dominant 7 pull (V7→I)?”
 
 If you can name 2–3 chords correctly, you can usually find the key family.
+
+#### TAB: a clean 4-chord loop you can analyze (G–D–Em–C)
+
+Play it, then do the analysis steps. (This is the same loop from earlier, shown again because it’s such a common “analysis playground.”)
+
+```
+   G         D         Em        C
+e|-3--------2--------0--------0---|
+B|-0--------3--------0--------1---|
+G|-0--------2--------0--------0---|
+D|-0--------0--------2--------2---|
+A|-2-----------------2--------3---|
+E|-3-----------------0------------|
+```
 
 #### Step 3: Decide: key harmony or modal vamp?
 
@@ -2546,6 +3080,20 @@ Let’s use a generic rock move in A:
 | A5 | G5 | D5 | A5 |
 ```
 
+#### TAB: the riff as power chords
+
+Here’s a simple TAB version of that idea (power chords, palm-mute if you want it punchy):
+
+```
+e|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|
+D|----------------|----------------|--7--7--7--7----|----------------|
+A|--7--7--7--7----|--5--5--5--5----|--5--5--5--5----|--7--7--7--7----|
+E|--5--5--5--5----|--3--3--3--3----|----------------|--5--5--5--5----|
+   A5              G5               D5               A5
+```
+
 Translate:
 
 - Home: A (1)
@@ -2687,6 +3235,33 @@ Think in four buckets. You don’t need equal time—just regular contact.
    - learn riffs, progressions, solos; analyze them (Part 7)
 
 If one bucket is missing, your playing gets lopsided.
+
+#### TAB: two “daily staples” you can rotate (simple, effective)
+
+**1) Bend-in-tune check (A minor context)**  
+Bend the 7th fret (D) up to match the pitch at the 10th fret (E), then release cleanly.
+
+```
+e|---------------------------|
+B|---------------------------|
+G|--7b(9)r7--5--7b(9)r7--5---|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+```
+
+**2) Top-strings triad drill (C major → F major → G major)**  
+Same rhythm, small grips, train your chord-tone awareness.
+
+```
+   C       F       G
+e|-3-------5-------3---|
+B|-5-------6-------3---|
+G|-5-------5-------4---|
+D|---------------------|
+A|---------------------|
+E|---------------------|
+```
 
 #### A “minimum effective” daily plan (25–40 minutes)
 
@@ -2844,6 +3419,19 @@ The goal is to use AI like a session coach:
 - Technique advice that could cause injury if you overdo it
 
 Use AI for ideas; validate with your ear and your body.
+
+#### TAB: example of what you should ask AI for (a focused lick)
+
+This is the kind of short, actionable output you want: a tiny phrase that targets the Dorian color note (B) over `Dm–G`.
+
+```
+e|-------------------------|
+B|--------6--8--6----------|
+G|--5--7-----------7--5----|
+D|----------------------7--|
+A|-------------------------|
+E|-------------------------|
+```
 
 ### Play it now
 
